@@ -1,5 +1,5 @@
-Формула - Message-ID:\s*[<>A-Za-z0-9.@]*\n(?=Date:....,.............((03:00:00)|(0[0-2]):[0-5]\d:[0-5]\d))
-Найдено: 233 рег. выражений
+Message-ID:\s*[<>A-Za-z0-9.@]*\n(?=Date:....,.............((03:00:00)|(0[0-2]):[0-5]\d:[0-5]\d))
+(233 hits)
 "allen-p/_sent_mail/100.","Message-ID: <24216240.1075855687451.JavaMail.evans@thyme>
 "allen-p/_sent_mail/101.","Message-ID: <20641191.1075855687472.JavaMail.evans@thyme>
 "allen-p/_sent_mail/128.","Message-ID: <21367359.1075855688073.JavaMail.evans@thyme>
