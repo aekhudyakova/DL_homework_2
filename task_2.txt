@@ -1,5 +1,5 @@
-Формула - ( |<|^)(o|O)[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}
-Найдено: 34 рег. выражения
+( |<|^)(o|O)[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,6}
+(34 hits)
 To: outlook.team@enron.com
 To: outlook.team@enron.com
  Outlook.2000@enron.com
